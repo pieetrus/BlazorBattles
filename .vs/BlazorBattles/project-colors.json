@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "325a0a31-0342-49ee-8ee9-e8edd0bc0530": {
+      "ProjectGuid": "325a0a31-0342-49ee-8ee9-e8edd0bc0530",
+      "DisplayName": "BlazorBattles.Server",
+      "ColorIndex": 0
+    },
+    "dc86972b-57c3-4473-8506-66a28b743016": {
+      "ProjectGuid": "dc86972b-57c3-4473-8506-66a28b743016",
+      "DisplayName": "BlazorBattles.Client",
+      "ColorIndex": 1
+    },
+    "4d10ca85-1b1f-4998-9153-bb6463fc75c2": {
+      "ProjectGuid": "4d10ca85-1b1f-4998-9153-bb6463fc75c2",
+      "DisplayName": "BlazorBattles.Shared",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

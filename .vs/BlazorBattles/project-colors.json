@@ -15,6 +15,11 @@
       "ProjectGuid": "4d10ca85-1b1f-4998-9153-bb6463fc75c2",
       "DisplayName": "BlazorBattles.Shared",
       "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 3

@@ -12,7 +12,6 @@ C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\BlazorBattles.Server.deps.json
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\BlazorBattles.Server.runtimeconfig.json
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\BlazorBattles.Server.dll
-C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\ref\BlazorBattles.Server.dll
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\BlazorBattles.Server.pdb
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
@@ -44,3 +43,5 @@ C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\ref\BlazorBattles.Server.dll
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\BlazorBattles.Server.pdb
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\BlazorBattles.Server.genruntimeconfig.cache
+C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\refint\BlazorBattles.Server.dll
+C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Blazored.Toast.dll

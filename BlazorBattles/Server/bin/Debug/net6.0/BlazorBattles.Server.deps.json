@@ -16,6 +16,17 @@
           "BlazorBattles.Server.dll": {}
         }
       },
+      "Blazored.LocalStorage/4.2.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/Blazored.LocalStorage.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Blazored.Toast/3.2.2": {
         "dependencies": {
           "Microsoft.AspNetCore.Components": "6.0.5",
@@ -253,6 +264,7 @@
       "BlazorBattles.Client/1.0.0": {
         "dependencies": {
           "BlazorBattles.Shared": "1.0.0",
+          "Blazored.LocalStorage": "4.2.0",
           "Blazored.Toast": "3.2.2",
           "Microsoft.AspNetCore.Components.Authorization": "6.0.5",
           "Microsoft.AspNetCore.Components.WebAssembly": "6.0.1"
@@ -273,6 +285,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Blazored.LocalStorage/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cn6h0QrLw0AIwkx/LiogtBycBFHIeqT/ptXIt871/07qTCvIGXCQZpc1s38wpmTfYLvpha5+5yn6TvIaY9ziyg==",
+      "path": "blazored.localstorage/4.2.0",
+      "hashPath": "blazored.localstorage.4.2.0.nupkg.sha512"
     },
     "Blazored.Toast/3.2.2": {
       "type": "package",

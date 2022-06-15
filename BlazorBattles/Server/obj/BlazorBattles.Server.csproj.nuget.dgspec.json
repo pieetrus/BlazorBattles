@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Server\\BlazorBattles.Server.csproj": {}
+    "D:\\Repo\\BlazorBattles\\BlazorBattles\\Server\\BlazorBattles.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\BlazorBattles.Client.csproj": {
+    "D:\\Repo\\BlazorBattles\\BlazorBattles\\Client\\BlazorBattles.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\BlazorBattles.Client.csproj",
+        "projectUniqueName": "D:\\Repo\\BlazorBattles\\BlazorBattles\\Client\\BlazorBattles.Client.csproj",
         "projectName": "BlazorBattles.Client",
-        "projectPath": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\BlazorBattles.Client.csproj",
-        "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\",
+        "projectPath": "D:\\Repo\\BlazorBattles\\BlazorBattles\\Client\\BlazorBattles.Client.csproj",
+        "packagesPath": "C:\\Users\\pietr\\.nuget\\packages\\",
+        "outputPath": "D:\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pietr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj": {
-                "projectPath": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj"
+              "D:\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj": {
+                "projectPath": "D:\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj"
               }
             }
           }
@@ -44,6 +48,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
             "Blazored.Toast": {
               "target": "Package",
               "version": "[3.2.2, )"
@@ -75,7 +83,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.5, 6.0.5]"
+              "version": "[6.0.6, 6.0.6]"
             }
           ],
           "frameworkReferences": {
@@ -83,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -92,17 +100,21 @@
         }
       }
     },
-    "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Server\\BlazorBattles.Server.csproj": {
+    "D:\\Repo\\BlazorBattles\\BlazorBattles\\Server\\BlazorBattles.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Server\\BlazorBattles.Server.csproj",
+        "projectUniqueName": "D:\\Repo\\BlazorBattles\\BlazorBattles\\Server\\BlazorBattles.Server.csproj",
         "projectName": "BlazorBattles.Server",
-        "projectPath": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Server\\BlazorBattles.Server.csproj",
-        "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Server\\obj\\",
+        "projectPath": "D:\\Repo\\BlazorBattles\\BlazorBattles\\Server\\BlazorBattles.Server.csproj",
+        "packagesPath": "C:\\Users\\pietr\\.nuget\\packages\\",
+        "outputPath": "D:\\Repo\\BlazorBattles\\BlazorBattles\\Server\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pietr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -116,11 +128,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\BlazorBattles.Client.csproj": {
-                "projectPath": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\BlazorBattles.Client.csproj"
+              "D:\\Repo\\BlazorBattles\\BlazorBattles\\Client\\BlazorBattles.Client.csproj": {
+                "projectPath": "D:\\Repo\\BlazorBattles\\BlazorBattles\\Client\\BlazorBattles.Client.csproj"
               },
-              "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj": {
-                "projectPath": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj"
+              "D:\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj": {
+                "projectPath": "D:\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj"
               }
             }
           }
@@ -158,21 +170,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj": {
+    "D:\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj",
+        "projectUniqueName": "D:\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj",
         "projectName": "BlazorBattles.Shared",
-        "projectPath": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj",
-        "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\obj\\",
+        "projectPath": "D:\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj",
+        "packagesPath": "C:\\Users\\pietr\\.nuget\\packages\\",
+        "outputPath": "D:\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pietr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -212,7 +228,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

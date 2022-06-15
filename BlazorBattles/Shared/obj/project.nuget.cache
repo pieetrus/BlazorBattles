@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zr5ni0g93oQRqOTps+IAomlEPCx0aNHlEF8VCu1NIgJ1vvlVoI3QzGtisjvtSOlqd8X5VoIojq3rIDyH1W4Xqw==",
+  "dgSpecHash": "GPQpRW+dNLPynBugFUHyEi5zL4g0umg6/4/wLLGbglVDTxrilkyfCDnJ9hQ+Hu5k4rIbzD7HVLbIkBmnJW3irw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj",
+  "projectFilePath": "D:\\Repo\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

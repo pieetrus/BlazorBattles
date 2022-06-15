@@ -11,65 +11,65 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = BlazorBattles.Client
 build_property.RootNamespace = BlazorBattles.Client
-build_property.ProjectDir = C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\
+build_property.ProjectDir = D:\Repo\BlazorBattles\BlazorBattles\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client
+build_property.MSBuildProjectDirectory = D:\Repo\BlazorBattles\BlazorBattles\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/App.razor]
+[D:/Repo/BlazorBattles/BlazorBattles/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/Pages/Army.razor]
+[D:/Repo/BlazorBattles/BlazorBattles/Client/Pages/Army.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJteS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/Pages/Build.razor]
+[D:/Repo/BlazorBattles/BlazorBattles/Client/Pages/Build.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnVpbGQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/Pages/Counter.razor]
+[D:/Repo/BlazorBattles/BlazorBattles/Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/Pages/FetchData.razor]
+[D:/Repo/BlazorBattles/BlazorBattles/Client/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/Pages/Index.razor]
+[D:/Repo/BlazorBattles/BlazorBattles/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/Pages/Login.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/Shared/AddBananas.razor]
+[D:/Repo/BlazorBattles/BlazorBattles/Client/Shared/AddBananas.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFkZEJhbmFuYXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/Shared/SurveyPrompt.razor]
+[D:/Repo/BlazorBattles/BlazorBattles/Client/Shared/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repo/BlazorBattles/BlazorBattles/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/_Imports.razor]
+[D:/Repo/BlazorBattles/BlazorBattles/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/Pages/Register.razor]
+[D:/Repo/BlazorBattles/BlazorBattles/Client/Pages/Register.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-gqbxl38ofo
 
-[C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/Shared/MainLayout.razor]
+[D:/Repo/BlazorBattles/BlazorBattles/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-l1st1jcckf
 
-[C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/Shared/NavMenu.razor]
+[D:/Repo/BlazorBattles/BlazorBattles/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ln95ya9lal
 
-[C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/Shared/TopMenu.razor]
+[D:/Repo/BlazorBattles/BlazorBattles/Client/Shared/TopMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRvcE1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-6svip1a404

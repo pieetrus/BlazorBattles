@@ -10,3 +10,15 @@ C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\ref\BlazorBattles.Shared.dll
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\BlazorBattles.Shared.pdb
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\refint\BlazorBattles.Shared.dll
+D:\Repo\BlazorBattles\BlazorBattles\Shared\bin\Debug\net6.0\BlazorBattles.Shared.deps.json
+D:\Repo\BlazorBattles\BlazorBattles\Shared\bin\Debug\net6.0\BlazorBattles.Shared.dll
+D:\Repo\BlazorBattles\BlazorBattles\Shared\bin\Debug\net6.0\BlazorBattles.Shared.pdb
+D:\Repo\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\BlazorBattles.Shared.csproj.AssemblyReference.cache
+D:\Repo\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\BlazorBattles.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\BlazorBattles.Shared.AssemblyInfoInputs.cache
+D:\Repo\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\BlazorBattles.Shared.AssemblyInfo.cs
+D:\Repo\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\BlazorBattles.Shared.csproj.CoreCompileInputs.cache
+D:\Repo\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\BlazorBattles.Shared.dll
+D:\Repo\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\refint\BlazorBattles.Shared.dll
+D:\Repo\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\BlazorBattles.Shared.pdb
+D:\Repo\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\ref\BlazorBattles.Shared.dll

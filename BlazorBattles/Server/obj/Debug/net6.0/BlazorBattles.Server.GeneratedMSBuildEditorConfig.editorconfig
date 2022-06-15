@@ -8,13 +8,13 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorBattles.Server
 build_property.RootNamespace = BlazorBattles.Server
-build_property.ProjectDir = C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\
+build_property.ProjectDir = D:\Repo\BlazorBattles\BlazorBattles\Server\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server
+build_property.MSBuildProjectDirectory = D:\Repo\BlazorBattles\BlazorBattles\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Server/Pages/Error.cshtml]
+[D:/Repo/BlazorBattles/BlazorBattles/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

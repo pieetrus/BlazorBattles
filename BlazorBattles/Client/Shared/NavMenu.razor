@@ -1,6 +1,10 @@
-﻿<div class="top-row ps-3 navbar navbar-dark">
+﻿@inject ILocalStorageService LocalStorage
+@inject AuthenticationStateProvider AuthStateProvider
+@inject NavigationManager NavigationManager
+
+<div class="top-row ps-3 navbar navbar-dark">
 	<div class="container-fluid">
-		<a class="navbar-brand" href="">Blazor Battles</a>
+		<a class="navbar-brand" href=""><img src="icons/axe.png"/>Blazor Battles</a>
 		<button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
 			<span class="navbar-toggler-icon"></span>
 		</button>
@@ -8,22 +12,38 @@
 </div>
 
 <div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
-	<ul class="flex-column">
+	<ul class="nav flex-column">
 		<li class="nav-item px-3">
 			<NavLink class="nav-link" href="" Match="NavLinkMatch.All">
 				<span class="oi oi-home" aria-hidden="true"></span> Home
 			</NavLink>
 		</li>
-		<li class="nav-item px-3">
-			<NavLink class="nav-link" href="build">
-				<span class="oi oi-wrench" aria-hidden="true"></span> Build
-			</NavLink>
-		</li>
-		<li class="nav-item px-3">
-			<NavLink class="nav-link" href="army">
-				<span class="oi oi-people" aria-hidden="true"></span> My Army
-			</NavLink>
-		</li>
+		<AuthorizeView>
+			<Authorized>
+				<li class="nav-item px-3">
+					<NavLink class="nav-link" href="build">
+						<span class="oi oi-wrench" aria-hidden="true"></span> Build
+					</NavLink>
+				</li>
+				<li class="nav-item px-3">
+					<NavLink class="nav-link" href="army">
+						<span class="oi oi-people" aria-hidden="true"></span> My Army
+					</NavLink>
+				</li>
+				<li class="nav-item px-3">
+					<a class="nav-link" @onclick="Logout" style="cursor:pointer;">
+						<span class="oi oi-account-logout" aria-hidden="true"></span> Logout
+					</a>
+				</li>
+			</Authorized>
+			<NotAuthorized>
+				<li class="nav-item px-3">
+					<NavLink class="nav-link" href="register">
+						<span class="oi oi-pencil" aria-hidden="true"></span> Register
+					</NavLink>
+				</li>
+			</NotAuthorized>
+		</AuthorizeView>
 	</ul>
 </div>
 
@@ -35,5 +55,12 @@
 	private void ToggleNavMenu()
 	{
 		collapseNavMenu = !collapseNavMenu;
+	}
+
+	private async void Logout()
+	{
+		await LocalStorage.RemoveItemAsync("isAuthenticated");
+		await AuthStateProvider.GetAuthenticationStateAsync();
+		NavigationManager.NavigateTo("/");
 	}
 }

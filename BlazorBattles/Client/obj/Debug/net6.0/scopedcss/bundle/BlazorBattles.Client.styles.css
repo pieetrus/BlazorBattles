@@ -1,3 +1,9 @@
+/* /Pages/Register.razor.rz.scp.css */
+.required[b-gqbxl38ofo]:after {
+    content: " *";
+    font-weight: bold;
+    color: red;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-l1st1jcckf] {
     position: relative;

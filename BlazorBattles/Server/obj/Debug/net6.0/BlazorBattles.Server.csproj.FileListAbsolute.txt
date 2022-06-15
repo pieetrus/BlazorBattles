@@ -45,3 +45,5 @@ C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\BlazorBattles.Server.genruntimeconfig.cache
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\refint\BlazorBattles.Server.dll
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Blazored.Toast.dll
+C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll

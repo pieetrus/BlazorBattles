@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+aqLyfWAKqRbvrXv2g5HntqiUBjejL7/uk21d4ragJs=",
+  "Hash": "zpckVA+jlGm/xAzzyO/Ha7deAh5lm2keJ6HvQ9ffKOc=",
   "Source": "BlazorBattles.Server",
   "BasePath": "_content/BlazorBattles.Server",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "BlazorBattles.Client",
       "GetPublishAssetsTargets": "ComputeFilesToPublish;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true;_PublishingBlazorWasmProject=true;Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishProperties": "BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true;_PublishingBlazorWasmProject=true",
       "AdditionalPublishPropertiesToRemove": "NoBuild;RuntimeIdentifier;WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildProperties": "",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
     }
   ],
@@ -233,23 +233,6 @@
       "OriginalItemSpec": "C:\\Users\\jakub\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.5\\runtimes\\browser-wasm\\native\\dotnet.wasm"
     },
     {
-      "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
-      "SourceId": "BlazorBattles.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt.dat",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "native",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jakub\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.5\\runtimes\\browser-wasm\\native\\icudt.dat"
-    },
-    {
       "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "SourceId": "BlazorBattles.Client",
       "SourceType": "Project",
@@ -301,6 +284,23 @@
       "OriginalItemSpec": "C:\\Users\\jakub\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.5\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
+      "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt.dat",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "native",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\jakub\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.5\\runtimes\\browser-wasm\\native\\icudt.dat"
+    },
+    {
       "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
       "SourceId": "BlazorBattles.Client",
       "SourceType": "Project",
@@ -315,7 +315,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jakub\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.1\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\jakub\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\jakub\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -332,7 +349,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jakub\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.1\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\jakub\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -400,7 +417,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jakub\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.1\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\jakub\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -604,7 +621,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jakub\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\jakub\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
@@ -3786,23 +3803,6 @@
       "OriginalItemSpec": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.Brotli.dll"
     },
     {
-      "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\2f5BtrVz.gz",
-      "SourceId": "BlazorBattles.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
-    },
-    {
       "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\3+uYZLql.gz",
       "SourceId": "BlazorBattles.Client",
       "SourceType": "Project",
@@ -4041,6 +4041,23 @@
       "OriginalItemSpec": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.dll"
     },
     {
+      "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\9U8gWf+m.gz",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
       "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\a4TsOse+.gz",
       "SourceId": "BlazorBattles.Client",
       "SourceType": "Project",
@@ -4056,6 +4073,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Metadata.dll"
+    },
+    {
+      "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\ab+FmMZJ.gz",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\aCZgZL+y.gz",
@@ -4566,6 +4600,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XPath.dll"
+    },
+    {
+      "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\DS7PuciH.gz",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\dYQp5i5V.gz",
@@ -5231,6 +5282,23 @@
       "OriginalItemSpec": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.TextWriterTraceListener.dll"
     },
     {
+      "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\jBcnmFEQ.gz",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
+    },
+    {
       "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\jcvj12dU.gz",
       "SourceId": "BlazorBattles.Client",
       "SourceType": "Project",
@@ -5297,23 +5365,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll"
-    },
-    {
-      "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\jUirxA0L.gz",
-      "SourceId": "BlazorBattles.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\K2dKt4uy.gz",
@@ -5384,40 +5435,6 @@
       "OriginalItemSpec": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Tasks.Parallel.dll"
     },
     {
-      "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\kmY4W42m.gz",
-      "SourceId": "BlazorBattles.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
-    },
-    {
-      "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\KOTu5uW0.gz",
-      "SourceId": "BlazorBattles.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
-    },
-    {
       "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\krvvcLi+.gz",
       "SourceId": "BlazorBattles.Client",
       "SourceType": "Project",
@@ -5484,6 +5501,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.CoreLib.dll"
+    },
+    {
+      "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\m2Idww3J.gz",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\M391YwNv.gz",
@@ -7016,6 +7050,23 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
       "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorBattles.Client",
       "SourceType": "Project",
@@ -7116,23 +7167,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
-    },
-    {
-      "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "BlazorBattles.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "C:\\Users\\jakub\\Desktop\\Repo\\BlazorBattles\\BlazorBattles\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",

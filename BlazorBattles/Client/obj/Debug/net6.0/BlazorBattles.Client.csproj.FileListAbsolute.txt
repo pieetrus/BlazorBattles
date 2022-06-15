@@ -606,12 +606,9 @@ C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\BlazorBattles.Client.AssemblyInfo.cs
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\BlazorBattles.Client.csproj.CoreCompileInputs.cache
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\BlazorBattles.Client.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\KOTu5uW0.gz
-C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\kmY4W42m.gz
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\TCf9h+aL.gz
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\mPedwIFD.gz
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\u1IBi+xx.gz
-C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\2f5BtrVz.gz
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\zTe95WVe.gz
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\VXy+GyJ0.gz
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\UarfsgsX.gz
@@ -623,7 +620,6 @@ C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\fEEXibvy.gz
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\COwmW25S.gz
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\jsGzMIxQ.gz
-C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\jUirxA0L.gz
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\gDcLbWlZ.gz
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\Uhk7r4Te.gz
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\v6WRsuJT.gz
@@ -826,3 +822,12 @@ C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.Toast.dll.gz
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\Blazored.Toast.dll
 C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\Fj063LkP.gz
+C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\scopedcss\Pages\Register.razor.rz.scp.css
+C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\9U8gWf+m.gz
+C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\jBcnmFEQ.gz
+C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\m2Idww3J.gz
+C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\ab+FmMZJ.gz
+C:\Users\jakub\Desktop\Repo\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\DS7PuciH.gz

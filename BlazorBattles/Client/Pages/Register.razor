@@ -1,0 +1,70 @@
+﻿@page "/register"
+@inject IUnitService UnitService
+@inject IJSRuntime JSRuntime
+@inject NavigationManager NavigationManager
+
+<h3>Register</h3>
+
+<EditForm Model="user" OnValidSubmit="HandleRegistration">
+	<DataAnnotationsValidator></DataAnnotationsValidator>
+	<div class="form-group">
+		<label for="email" class="required">Email</label>
+		<InputText id="email" @bind-Value="user.Email" class="form-control"></InputText>
+		<ValidationMessage For="() => user.Email"></ValidationMessage>
+	</div>
+	<div class="form-group">
+		<label for="username">Username</label>
+		<InputText id="username" @bind-Value="user.Username" class="form-control"></InputText>
+		<ValidationMessage For="() => user.Username"></ValidationMessage>
+	</div>
+	<div class="form-group">
+		<label for="password" class="required">Password</label>
+		<InputText id="password" type="password" @bind-Value="user.Password" class="form-control"></InputText>
+		<ValidationMessage For="() => user.Password"></ValidationMessage>
+	</div>
+	<div class="form-group">
+		<label for="confirmpassword">Confirm password</label>
+		<InputText id="confirmpassword" type="password" @bind-Value="user.ConfirmPassword" class="form-control"></InputText>
+		<ValidationMessage For="() => user.ConfirmPassword"></ValidationMessage>
+	</div>
+	<div class="form-group">
+		<label for="bio">Bio</label>
+		<InputTextArea id="bio" @bind-Value="user.Bio" class="form-control"></InputTextArea>
+	</div>
+	<div class="form-group">
+		<label for="startUnit">Start Unit</label> <br/>
+		<InputRadioGroup id="startUnit" @bind-Value="user.StartUnitId" class="form-control">
+			@foreach (var unit in UnitService.Units)
+			{
+				<InputRadio Value="@unit.Id" /> <span style="padding-left:5px">@unit.Title </span> <br/>
+			}
+		</InputRadioGroup>
+	</div>
+	<div class="form-group">
+		<label for="bananas">Bananas</label>
+		<InputNumber id="bananas" @bind-Value="user.Bananas" class="form-control"></InputNumber>
+		<ValidationMessage For="() => user.Bananas"></ValidationMessage>
+	</div>
+	<div class="form-group">
+		<label for="dateOfBirth">DateOfBirth</label>
+		<InputDate id="dateOfBirth" @bind-Value="user.DateOfBirth" class="form-control"></InputDate>
+	</div>
+	<div class="form-check">
+		<InputCheckbox id="confirmed" @bind-Value="user.IsConfirmed" class="form-check-input"></InputCheckbox>
+		<label for="confirmed" class="form-check-label">Confirmed</label>
+		<ValidationMessage For="() => user.IsConfirmed"></ValidationMessage>
+	</div>
+	<button type="submit" class="btn btn-primary">Register</button>
+</EditForm>
+
+
+@code {
+	UserRegister user = new UserRegister();
+
+	void HandleRegistration()
+	{
+		JSRuntime.InvokeVoidAsync("console.log", user);
+		NavigationManager.NavigateTo("login");
+	}
+
+}

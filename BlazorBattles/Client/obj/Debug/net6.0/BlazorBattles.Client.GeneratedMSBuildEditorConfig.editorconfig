@@ -42,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/Shared/AddBananas.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFkZEJhbmFuYXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -53,6 +57,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-gqbxl38ofo
 
 [C:/Users/jakub/Desktop/Repo/BlazorBattles/BlazorBattles/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
